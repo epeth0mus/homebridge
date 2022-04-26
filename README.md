@@ -38,6 +38,9 @@ The official Homebridge Discord server and Reddit community are where users can 
 
 HomeKit communities can also be found on both [Discord](https://discord.gg/RcV7fa8) and [Reddit](https://www.reddit.com/r/homekit).
 
+## Details
+Adding Homekit support for any device is possible with Homebridge and Plugins. Find More details at [How to Add any Device to Apple HomeKit?](https://kodmy.com/add-any-smarthome-device-to-homekit/)
+
 ## Installation
 
 The [Homebridge Wiki](https://github.com/homebridge/homebridge/wiki) contains step-by-step instruction on how to install Node.js and setup Homebridge and the [Homebridge UI](https://github.com/oznu/homebridge-config-ui-x) as a service so it automatically starts on boot:
